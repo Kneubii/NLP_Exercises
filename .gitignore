@@ -212,3 +212,8 @@ __marimo__/
 
 # Experimental
 Others/
+
+# Model training
+wandb
+*.pt
+*.pdf
